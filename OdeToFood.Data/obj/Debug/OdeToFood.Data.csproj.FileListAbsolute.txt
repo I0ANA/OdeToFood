@@ -1,0 +1,6 @@
+E:\Igentics\Projects\LearningProjects\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+E:\Igentics\Projects\LearningProjects\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+E:\Igentics\Projects\LearningProjects\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
+E:\Igentics\Projects\LearningProjects\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+E:\Igentics\Projects\LearningProjects\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+E:\Igentics\Projects\LearningProjects\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
